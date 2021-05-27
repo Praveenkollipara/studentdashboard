@@ -117,6 +117,12 @@ input , button{
     align-items: center;
 }
 
+
+li :hover{
+    background-color: var(--main);
+    padding: 5px;
+}
+
 .sidemenu a i{
     font-size: 1.3rem;
     padding: 0rem .6rem;
